@@ -1,0 +1,30 @@
+{
+  "id": "DLV-1018",
+  "orderNumber": "ORD-2026-5120",
+  "customerName": "Kavya Menon",
+  "status": "pending",
+  "deliveryDate": "2026-10-11T14:30:00Z",
+  "address": {
+    "line1": "31, Connaught Place, Block C",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "postalCode": "110001"
+  },
+  "items": [
+    {
+      "name": "Notebook Pack (3)",
+      "quantity": 2,
+      "unitPrice": 399
+    }
+  ],
+  "totalAmount": 798,
+  "currency": "INR",
+  "deliveryNotes": "Customer requested contactless delivery.",
+  "contactPhone": "+91 9873639532",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-07T14:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "DLV-1002",
+  "orderNumber": "ORD-2026-5008",
+  "customerName": "Priya Nair",
+  "status": "cancelled",
+  "deliveryDate": "2026-10-08T16:00:00Z",
+  "address": {
+    "line1": "45, MG Road, Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "postalCode": "560038"
+  },
+  "items": [
+    {
+      "name": "Phone Case",
+      "quantity": 1,
+      "unitPrice": 499
+    },
+    {
+      "name": "Wireless Mouse",
+      "quantity": 3,
+      "unitPrice": 899
+    },
+    {
+      "name": "Laptop Stand",
+      "quantity": 1,
+      "unitPrice": 1299
+    }
+  ],
+  "totalAmount": 4495,
+  "currency": "INR",
+  "deliveryNotes": "Call on arrival; gate code is 4821.",
+  "contactPhone": "+91 9886626738",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-04T16:00:00Z"
+    },
+    {
+      "status": "cancelled",
+      "timestamp": "2026-10-04T19:00:00Z"
+    }
+  ]
+}

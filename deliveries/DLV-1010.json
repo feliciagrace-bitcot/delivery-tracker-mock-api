@@ -1,0 +1,42 @@
+{
+  "id": "DLV-1010",
+  "orderNumber": "ORD-2026-5064",
+  "customerName": "Divya Krishnan",
+  "status": "delivered",
+  "deliveryDate": "2026-10-04T14:00:00Z",
+  "address": {
+    "line1": "101, Jubilee Hills, Road 36",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postalCode": "500033"
+  },
+  "items": [
+    {
+      "name": "Power Bank 10000mAh",
+      "quantity": 1,
+      "unitPrice": 1599
+    }
+  ],
+  "totalAmount": 1599,
+  "currency": "INR",
+  "deliveryNotes": "Ring the bell twice.",
+  "contactPhone": "+91 9863404922",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-09-30T14:00:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-09-30T19:00:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-04T09:00:00Z"
+    },
+    {
+      "status": "delivered",
+      "timestamp": "2026-10-04T14:00:00Z"
+    }
+  ]
+}

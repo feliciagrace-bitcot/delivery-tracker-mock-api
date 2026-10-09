@@ -1,0 +1,43 @@
+{
+  "id": "DLV-1005",
+  "orderNumber": "ORD-2026-5029",
+  "customerName": "Karthik Subramanian",
+  "status": "out_for_delivery",
+  "deliveryDate": "2026-10-09T10:30:00Z",
+  "address": {
+    "line1": "88, Park Street",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "postalCode": "700016"
+  },
+  "items": [
+    {
+      "name": "Webcam HD",
+      "quantity": 1,
+      "unitPrice": 1899
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "quantity": 1,
+      "unitPrice": 3999
+    }
+  ],
+  "totalAmount": 5898,
+  "currency": "INR",
+  "deliveryNotes": null,
+  "contactPhone": "+91 9856100526",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-05T10:30:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-05T19:30:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-09T09:00:00Z"
+    }
+  ]
+}

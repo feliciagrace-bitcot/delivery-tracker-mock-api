@@ -1,0 +1,43 @@
+{
+  "id": "DLV-1012",
+  "orderNumber": "ORD-2026-5078",
+  "customerName": "Lakshmi Narayanan",
+  "status": "out_for_delivery",
+  "deliveryDate": "2026-10-09T12:00:00Z",
+  "address": {
+    "line1": "45, MG Road, Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "postalCode": "560038"
+  },
+  "items": [
+    {
+      "name": "Backpack",
+      "quantity": 2,
+      "unitPrice": 2199
+    },
+    {
+      "name": "Phone Case",
+      "quantity": 3,
+      "unitPrice": 499
+    }
+  ],
+  "totalAmount": 5895,
+  "currency": "INR",
+  "deliveryNotes": "Call on arrival; gate code is 4821.",
+  "contactPhone": "+91 9830306925",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-07T12:00:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-07T16:00:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-09T09:00:00Z"
+    }
+  ]
+}

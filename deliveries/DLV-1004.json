@@ -1,0 +1,52 @@
+{
+  "id": "DLV-1004",
+  "orderNumber": "ORD-2026-5022",
+  "customerName": "Ananya Iyer",
+  "status": "delivered",
+  "deliveryDate": "2026-10-08T18:30:00Z",
+  "address": {
+    "line1": "23, Banjara Hills Road No. 3",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postalCode": "500034"
+  },
+  "items": [
+    {
+      "name": "USB-C Cable (1m)",
+      "quantity": 3,
+      "unitPrice": 349
+    },
+    {
+      "name": "Notebook Pack (3)",
+      "quantity": 1,
+      "unitPrice": 399
+    },
+    {
+      "name": "Wireless Mouse",
+      "quantity": 2,
+      "unitPrice": 899
+    }
+  ],
+  "totalAmount": 3244,
+  "currency": "INR",
+  "deliveryNotes": "Fragile - handle with care.",
+  "contactPhone": "+91 9888592782",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-05T18:30:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-06T03:30:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-08T09:00:00Z"
+    },
+    {
+      "status": "delivered",
+      "timestamp": "2026-10-08T18:30:00Z"
+    }
+  ]
+}

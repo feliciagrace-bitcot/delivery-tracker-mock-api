@@ -1,0 +1,42 @@
+{
+  "id": "DLV-1017",
+  "orderNumber": "ORD-2026-5113",
+  "customerName": "Farhan Ali",
+  "status": "delivered",
+  "deliveryDate": "2026-10-07T10:30:00Z",
+  "address": {
+    "line1": "5, Koregaon Park Lane",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "postalCode": "411001"
+  },
+  "items": [
+    {
+      "name": "Notebook Pack (3)",
+      "quantity": 1,
+      "unitPrice": 399
+    }
+  ],
+  "totalAmount": 399,
+  "currency": "INR",
+  "deliveryNotes": null,
+  "contactPhone": "+91 9819437596",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-03T10:30:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-03T12:30:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-07T09:00:00Z"
+    },
+    {
+      "status": "delivered",
+      "timestamp": "2026-10-07T10:30:00Z"
+    }
+  ]
+}

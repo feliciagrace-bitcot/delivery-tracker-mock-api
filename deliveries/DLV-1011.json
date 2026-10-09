@@ -1,0 +1,43 @@
+{
+  "id": "DLV-1011",
+  "orderNumber": "ORD-2026-5071",
+  "customerName": "Rahul Verma",
+  "status": "out_for_delivery",
+  "deliveryDate": "2026-10-09T18:30:00Z",
+  "address": {
+    "line1": "12, Gandhi Road, T. Nagar",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600017"
+  },
+  "items": [
+    {
+      "name": "Power Bank 10000mAh",
+      "quantity": 1,
+      "unitPrice": 1599
+    },
+    {
+      "name": "USB-C Cable (1m)",
+      "quantity": 2,
+      "unitPrice": 349
+    }
+  ],
+  "totalAmount": 2297,
+  "currency": "INR",
+  "deliveryNotes": "Leave at the front door.",
+  "contactPhone": "+91 9883849218",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-07T18:30:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-08T02:30:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-09T09:00:00Z"
+    }
+  ]
+}

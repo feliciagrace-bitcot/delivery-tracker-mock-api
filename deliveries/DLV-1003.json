@@ -1,0 +1,35 @@
+{
+  "id": "DLV-1003",
+  "orderNumber": "ORD-2026-5015",
+  "customerName": "Rohan Mehta",
+  "status": "pending",
+  "deliveryDate": "2026-10-14T18:00:00Z",
+  "address": {
+    "line1": "7, Marine Drive Apartments, Nariman Point",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "postalCode": "400021"
+  },
+  "items": [
+    {
+      "name": "Desk Lamp",
+      "quantity": 1,
+      "unitPrice": 999
+    },
+    {
+      "name": "Water Bottle",
+      "quantity": 1,
+      "unitPrice": 599
+    }
+  ],
+  "totalAmount": 1598,
+  "currency": "INR",
+  "deliveryNotes": "Deliver between 10 AM and 1 PM.",
+  "contactPhone": "+91 9883517017",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-11T18:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "DLV-1009",
+  "orderNumber": "ORD-2026-5057",
+  "customerName": "Arjun Das",
+  "status": "pending",
+  "deliveryDate": "2026-10-12T10:30:00Z",
+  "address": {
+    "line1": "64, Velachery Main Road",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600042"
+  },
+  "items": [
+    {
+      "name": "Water Bottle",
+      "quantity": 3,
+      "unitPrice": 599
+    },
+    {
+      "name": "Power Bank 10000mAh",
+      "quantity": 2,
+      "unitPrice": 1599
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "quantity": 3,
+      "unitPrice": 3999
+    }
+  ],
+  "totalAmount": 16992,
+  "currency": "INR",
+  "deliveryNotes": null,
+  "contactPhone": "+91 9891996233",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-09T10:30:00Z"
+    }
+  ]
+}

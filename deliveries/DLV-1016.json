@@ -1,0 +1,47 @@
+{
+  "id": "DLV-1016",
+  "orderNumber": "ORD-2026-5106",
+  "customerName": "Pooja Joshi",
+  "status": "delivered",
+  "deliveryDate": "2026-10-06T12:00:00Z",
+  "address": {
+    "line1": "19, Anna Salai, Teynampet",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600018"
+  },
+  "items": [
+    {
+      "name": "Wireless Mouse",
+      "quantity": 1,
+      "unitPrice": 899
+    },
+    {
+      "name": "Laptop Stand",
+      "quantity": 1,
+      "unitPrice": 1299
+    }
+  ],
+  "totalAmount": 2198,
+  "currency": "INR",
+  "deliveryNotes": "Hand over to security desk.",
+  "contactPhone": "+91 9823741157",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-03T12:00:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-03T14:00:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-06T09:00:00Z"
+    },
+    {
+      "status": "delivered",
+      "timestamp": "2026-10-06T12:00:00Z"
+    }
+  ]
+}

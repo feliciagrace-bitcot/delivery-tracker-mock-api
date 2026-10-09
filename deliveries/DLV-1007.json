@@ -1,0 +1,30 @@
+{
+  "id": "DLV-1007",
+  "orderNumber": "ORD-2026-5043",
+  "customerName": "Vikram Singh",
+  "status": "pending",
+  "deliveryDate": "2026-10-14T18:30:00Z",
+  "address": {
+    "line1": "5, Koregaon Park Lane",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "postalCode": "411001"
+  },
+  "items": [
+    {
+      "name": "Water Bottle",
+      "quantity": 1,
+      "unitPrice": 599
+    }
+  ],
+  "totalAmount": 599,
+  "currency": "INR",
+  "deliveryNotes": null,
+  "contactPhone": "+91 9889774974",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-11T18:30:00Z"
+    }
+  ]
+}

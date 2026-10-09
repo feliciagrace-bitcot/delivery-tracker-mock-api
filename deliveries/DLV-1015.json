@@ -1,0 +1,40 @@
+{
+  "id": "DLV-1015",
+  "orderNumber": "ORD-2026-5099",
+  "customerName": "Suresh Babu",
+  "status": "pending",
+  "deliveryDate": "2026-10-13T16:30:00Z",
+  "address": {
+    "line1": "88, Park Street",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "postalCode": "700016"
+  },
+  "items": [
+    {
+      "name": "Water Bottle",
+      "quantity": 3,
+      "unitPrice": 599
+    },
+    {
+      "name": "Wireless Mouse",
+      "quantity": 3,
+      "unitPrice": 899
+    },
+    {
+      "name": "Power Bank 10000mAh",
+      "quantity": 2,
+      "unitPrice": 1599
+    }
+  ],
+  "totalAmount": 7692,
+  "currency": "INR",
+  "deliveryNotes": null,
+  "contactPhone": "+91 9895132904",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-11T16:30:00Z"
+    }
+  ]
+}

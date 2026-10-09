@@ -1,0 +1,48 @@
+{
+  "id": "DLV-1006",
+  "orderNumber": "ORD-2026-5036",
+  "customerName": "Sneha Reddy",
+  "status": "out_for_delivery",
+  "deliveryDate": "2026-10-09T12:30:00Z",
+  "address": {
+    "line1": "19, Anna Salai, Teynampet",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600018"
+  },
+  "items": [
+    {
+      "name": "Power Bank 10000mAh",
+      "quantity": 1,
+      "unitPrice": 1599
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "quantity": 1,
+      "unitPrice": 3999
+    },
+    {
+      "name": "Notebook Pack (3)",
+      "quantity": 3,
+      "unitPrice": 399
+    }
+  ],
+  "totalAmount": 6795,
+  "currency": "INR",
+  "deliveryNotes": "Hand over to security desk.",
+  "contactPhone": "+91 9866599395",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-07T12:30:00Z"
+    },
+    {
+      "status": "confirmed",
+      "timestamp": "2026-10-07T21:30:00Z"
+    },
+    {
+      "status": "out_for_delivery",
+      "timestamp": "2026-10-09T09:00:00Z"
+    }
+  ]
+}

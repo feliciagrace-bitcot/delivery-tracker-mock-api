@@ -1,0 +1,30 @@
+{
+  "id": "DLV-1020",
+  "orderNumber": "ORD-2026-5134",
+  "customerName": "Isha Kapoor",
+  "status": "pending",
+  "deliveryDate": "2026-10-15T14:30:00Z",
+  "address": {
+    "line1": "101, Jubilee Hills, Road 36",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postalCode": "500033"
+  },
+  "items": [
+    {
+      "name": "Backpack",
+      "quantity": 2,
+      "unitPrice": 2199
+    }
+  ],
+  "totalAmount": 4398,
+  "currency": "INR",
+  "deliveryNotes": "Ring the bell twice.",
+  "contactPhone": "+91 9879301246",
+  "statusHistory": [
+    {
+      "status": "pending",
+      "timestamp": "2026-10-11T14:30:00Z"
+    }
+  ]
+}
